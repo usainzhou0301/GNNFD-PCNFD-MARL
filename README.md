@@ -3,6 +3,7 @@ This repository is used to show the code and simulation results for the paper "F
 
 # Code-Structure
 After the paper is accepted, we will update the code as the following structure:
+```bash
 FM-EAC/
 ├── Tokyo-map-Task/                                       # Urban scenario modeling and communication simulation
 │   ├── city_map/                                # Original TIFF map dataset
@@ -44,6 +45,7 @@ FM-EAC/
 │       ├── urban_eac_gnn_model.py               # GNN + RL model architecture
 │       ├── train.py                             # Training pipeline
 │       └── test.py                              # Testing and evaluation
+
 
 # Simulation Results
 PMP traces figures are put in /Visualization Results/PMP_trace. 
