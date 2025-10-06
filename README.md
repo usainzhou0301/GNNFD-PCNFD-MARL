@@ -79,11 +79,4 @@ The example of PCN-MARL trajector can be represented as:
 # Updates
 ``` Oct, 5, 2025: ``` Paper Re-submission.
 
-# Announcement
-More related works information can be found on [Tsukada lab](https://tlab.hongo.wide.ad.jp/software/).
 
-
-
-# Contact with Us
-If you have any questions, please do not hesitate to contact us at this email: 
-usainzhou@g.ecc.u-tokyo.ac.jp.
