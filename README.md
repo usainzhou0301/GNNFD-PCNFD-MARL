@@ -62,9 +62,8 @@ GNNFD-MARL trajectory figures are saved at /Visualization Results/GNNFD-MARL Tra
 PCNFD-MARL trajectory figures are saved at /Visualization Results/PCNFD-MARL Trajectory Results.
 We choose different start points and destinations for 4 UAVs to perform tasks.
 
-![example_1](https://raw.githubusercontent.com/usainzhou0301/GNNFD-PCNFD-MARL/main/Visualization_example/example_1.png)
-![example_2](https://raw.githubusercontent.com/usainzhou0301/GNNFD-PCNFD-MARL/main/Visualization_example/example_2.png)
-![example_3](https://raw.githubusercontent.com/usainzhou0301/GNNFD-PCNFD-MARL/main/Visualization_example/example_3.png)
+![example1](Visualization_example/example_1.png)
+
 
 # Contact with Us
 If you have any questions, please do not hesitate to contact us at this email: usainzhou@g.ecc.u-tokyo.ac.jp.
