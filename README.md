@@ -62,11 +62,12 @@ GNNFD-MARL trajectory figures are saved at /Visualization Results/GNNFD-MARL Tra
 PCNFD-MARL trajectory figures are saved at /Visualization Results/PCNFD-MARL Trajectory Results.
 We choose different start points and destinations for 4 UAVs to perform tasks.
 
-![example](https://t13.baidu.com/it/u=1081672125,3036155125&fm=224&app=112&f=JPEG?w=500&h=500)
 
 
 # Contact with Us
-If you have any questions, please do not hesitate to contact us at this email: usainzhou@g.ecc.u-tokyo.ac.jp.
+If you have any questions, please do not hesitate to contact us at this email: 
+
+usainzhou@g.ecc.u-tokyo.ac.jp.
 
 The scenarios correspond to the PMP trace filename.
 The name map_i_trace_j.html represents the visualization of scenario i and PMP trace j.
