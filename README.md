@@ -63,6 +63,8 @@ PCNFD-MARL trajectory figures are saved at /Visualization Results/PCNFD-MARL Tra
 We choose different start points and destinations for 4 UAVs to perform tasks.
 
 <img width="1529" height="1228" alt="trace_1_00" src="https://github.com/user-attachments/assets/595d416a-19f0-4b42-af40-40d5dbba3df4" />
+<img width="2425" height="1062" alt="pcn-1_00" src="https://github.com/user-attachments/assets/8cba7b5f-70b9-4308-9dd5-1259354c5d96" />
+<img width="2425" height="1051" alt="gnn-1_00" src="https://github.com/user-attachments/assets/0f316f7d-db42-4eb5-88dc-7575913e68fc" />
 
 # Contact with Us
 If you have any questions, please do not hesitate to contact us at this email: usainzhou@g.ecc.u-tokyo.ac.jp.
