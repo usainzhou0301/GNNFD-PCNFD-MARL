@@ -68,6 +68,9 @@ We choose different start points and destinations for 4 UAVs to perform tasks.
 
 <img width="2425" height="1062" alt="example_3" src="https://github.com/user-attachments/assets/8c01c6e9-aa01-450b-8fc6-ebec9d51fb0b" />
 
+# Update Time
+2025/10/06
+
 # Contact with Us
 If you have any questions, please do not hesitate to contact us at this email: 
 
