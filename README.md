@@ -62,8 +62,6 @@ GNNFD-MARL trajectory figures are saved at /Visualization Results/GNNFD-MARL Tra
 PCNFD-MARL trajectory figures are saved at /Visualization Results/PCNFD-MARL Trajectory Results.
 We choose different start points and destinations for 4 UAVs to perform tasks.
 
-
-
 # Contact with Us
 If you have any questions, please do not hesitate to contact us at this email: 
 
