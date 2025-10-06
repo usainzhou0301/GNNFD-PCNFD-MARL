@@ -1,13 +1,6 @@
 # Repository introduction 
 This repository is used to show the code and simulation results for the paper "Feature-Driven Multi-Agent Reinforcement Learning for UAV Trajectory Planning and Power Allocation in Dynamic Environments". We will update the whole experiment code after acceptance. Now, we just put the simulation results for algorithms PCNFD-MARL and GNNFD-MARL.
 
-
-<img width="1529" height="1228" alt="example_1" src="https://github.com/user-attachments/assets/03b60d3e-e259-4cb1-bf83-aa9b8212883e" />
-
-<img width="2425" height="1051" alt="example_2" src="https://github.com/user-attachments/assets/8f23cd4d-8a73-4cf2-b443-75a3133876a2" />
-
-<img width="2425" height="1062" alt="example_3" src="https://github.com/user-attachments/assets/8c01c6e9-aa01-450b-8fc6-ebec9d51fb0b" />
-
 # Code-Structure
 After the paper is accepted, we will update the code as the following structure:
 ```bash
@@ -52,7 +45,7 @@ FM-EAC/
 │       ├── urban_eac_gnn_model.py               # GNN + RL model architecture
 │       ├── train.py                             # Training pipeline
 │       └── test.py                              # Testing and evaluation
-
+```
 
 # Simulation Results
 PMP traces figures are put in /Visualization Results/PMP_trace. 
@@ -62,12 +55,24 @@ For different city area location scenarios, we set some different PMP traces.
 The name x_y.png represents the visualization of scenario x and PMP trace y. 
 As detailed, we chose 3 areas and 30 traces.
 
+The example of PMP traces can be represented as:
+
+<img width="1529" height="1228" alt="example_1" src="https://github.com/user-attachments/assets/03b60d3e-e259-4cb1-bf83-aa9b8212883e" />
+
 About the UAV trajectories, we divided them into two parts.
 GNNFD-MARL and PCNFD-MARL trajectory figures are saved as ".html" files, which can be rotated, dragged, and viewed with details.
 This is for the convenience of seeing the detailed trajectory and traces among buildings.
 GNNFD-MARL trajectory figures are saved at /Visualization Results/GNNFD-MARL Trajectory Results.
 PCNFD-MARL trajectory figures are saved at /Visualization Results/PCNFD-MARL Trajectory Results.
 We choose different start points and destinations for 4 UAVs to perform tasks.
+
+The example of GNN-MARL trajector can be represented as:
+
+<img width="2425" height="1051" alt="example_2" src="https://github.com/user-attachments/assets/8f23cd4d-8a73-4cf2-b443-75a3133876a2" />
+
+The example of PCN-MARL trajector can be represented as:
+
+<img width="2425" height="1062" alt="example_3" src="https://github.com/user-attachments/assets/8c01c6e9-aa01-450b-8fc6-ebec9d51fb0b" />
 
 # Update Time
 2025/10/06
