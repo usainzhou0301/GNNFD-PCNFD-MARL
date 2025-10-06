@@ -79,8 +79,7 @@ The example of PCN-MARL trajector can be represented as:
 
 # Contact with Us
 If you have any questions, please do not hesitate to contact us at this email: 
-
 usainzhou@g.ecc.u-tokyo.ac.jp.
 
 The scenarios correspond to the PMP trace filename.
-The name map_i_trace_j.html represents the visualization of scenario i and PMP trace j.
+The name "map_i_trace_j.html" represents the visualization results of scenario i with PMP trace j.
