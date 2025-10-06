@@ -65,6 +65,8 @@ This is for the convenience of seeing the detailed trajectory and traces among b
 GNNFD-MARL trajectory figures are saved at /Visualization Results/GNNFD-MARL Trajectory Results.
 PCNFD-MARL trajectory figures are saved at /Visualization Results/PCNFD-MARL Trajectory Results.
 We choose different start points and destinations for 4 UAVs to perform tasks.
+The scenarios correspond to the PMP trace filename.
+The name "map_i_trace_j.html" represents the visualization results of scenario i with PMP trace j.
 
 The example of GNN-MARL trajector can be represented as:
 
@@ -74,12 +76,14 @@ The example of PCN-MARL trajector can be represented as:
 
 <img width="2425" height="1062" alt="example_3" src="https://github.com/user-attachments/assets/8c01c6e9-aa01-450b-8fc6-ebec9d51fb0b" />
 
-# Update Time
-2025/10/06
+# Updates
+``` Oct, 5, 2025: ``` Paper Re-submission.
+
+# Announcement
+More related works information can be found on our [lab](https://tlab.hongo.wide.ad.jp/software/).
+
+
 
 # Contact with Us
 If you have any questions, please do not hesitate to contact us at this email: 
 usainzhou@g.ecc.u-tokyo.ac.jp.
-
-The scenarios correspond to the PMP trace filename.
-The name "map_i_trace_j.html" represents the visualization results of scenario i with PMP trace j.
