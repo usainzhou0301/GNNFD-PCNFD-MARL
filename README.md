@@ -62,11 +62,17 @@ The example of PMP traces can be represented as:
 About the UAV trajectories, we divide the visualization results into two categories. The trajectory figures for both GNNFD-MARL and PCNFD-MARL are provided as interactive “.html” files, which support rotation, dragging, and detailed inspection. This interactive format makes it convenient to observe the UAV flight trajectories and their maneuvering behavior among surrounding buildings. In addition, for each scenario we also provide a static 2D top-down view in “.png” format. The 3D interactive view preserves altitude information and clearly illustrates how UAVs navigate above and around obstacles, while the 2D top-down view offers a concise, paper-friendly representation of planar paths that is suitable for quick comparison across scenarios or direct embedding into documents.
 The visualization results are organized by algorithm and visualization mode as follows:
 GNNFD-MARL results
+
 3D: /Visualization Results/GNNFD-MARL Trajectory Results/3D/
+
 2D: /Visualization Results/GNNFD-MARL Trajectory Results/2D/
+
 PCNFD-MARL results
+
 3D: /Visualization Results/PCNFD-MARL Trajectory Results/3D/
+
 2D: /Visualization Results/PCNFD-MARL Trajectory Results/2D/
+
 For each scenario, we assign different start points and destinations to four UAVs to perform the tasks. The scenarios correspond to the PMP trace filenames. Specifically, a file named map_i_trace_j.html (or map_i_trace_j.png for the 2D version) represents the visualization result of scenario i with PMP trace j.
 The example of GNN-MARL trajector can be represented as:
 
