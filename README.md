@@ -52,7 +52,7 @@ The example of PSD traces can be represented as:
 
 <img width="1529" height="1228" alt="example_1" src="https://github.com/user-attachments/assets/03b60d3e-e259-4cb1-bf83-aa9b8212883e" />
 
-About the UAV trajectories, we divide the visualization results into two categories. The trajectory figures for both GNNFD-MARL and PCNFD-MARL are provided as interactive “.png” files. This interactive format makes it convenient to observe the UAV flight trajectories and their maneuvering behavior among surrounding buildings. In addition, for each scenario we also provide a static 2D top-down view in “.png” format. The 3D interactive view preserves altitude information and clearly illustrates how UAVs navigate above and around obstacles, while the 2D top-down view offers a concise, paper-friendly representation of planar paths that is suitable for quick comparison across scenarios or direct embedding into documents.
+About the UAV trajectories, we divide the visualization results into two categories. The trajectory figures for both GNNFD-MARL and PCNFD-MARL are provided as interactive “.png” files. This interactive format makes it convenient to observe the UAV flight trajectories and their maneuvering behavior among surrounding buildings. In addition, for each scenario, we also provide a static 2D top-down view in “.png” format. The 3D interactive view preserves altitude information and clearly illustrates how UAVs navigate above and around obstacles, while the 2D top-down view offers a concise, paper-friendly representation of planar paths that is suitable for quick comparison across scenarios or direct embedding into documents.
 The visualization results are organized by algorithm and visualization mode as follows:
 GNNFD-MARL results
 
@@ -69,11 +69,13 @@ PCNFD-MARL results
 For each scenario, we assign different start points and destinations to four UAVs to perform the tasks. The scenarios correspond to the PSD trace filenames. Specifically, a file named map_i_trace_j.png represents the visualization result of scenario i with PSD trace j.
 The example of GNNFD-MARL trajector can be represented as:
 
-<img width="2425" height="1051" alt="example_2" src="https://github.com/user-attachments/assets/8f23cd4d-8a73-4cf2-b443-75a3133876a2" />
+<img width="3229" height="2778" alt="gnn-2" src="https://github.com/user-attachments/assets/72fff33f-3d34-49a1-9cc3-98c344ecff8d" />
+
 
 The example of PCNFD-MARL trajector can be represented as:
 
-<img width="2425" height="1062" alt="example_3" src="https://github.com/user-attachments/assets/8c01c6e9-aa01-450b-8fc6-ebec9d51fb0b" />
+<img width="3158" height="2778" alt="pcn-2" src="https://github.com/user-attachments/assets/ff1ce113-6ee0-485c-87ce-3680cf2ab696" />
+
 
 # Updates
 ``` Jun, 12, 2026: ``` Paper Re-submission.
